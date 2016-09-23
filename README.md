@@ -1,40 +1,29 @@
-##相关资源
+相关资源
 
-* 小程序开发交流QQ群： 320917137
+小程序开发交流QQ群： 320917137
+资源包（大家下载然后根据需要使用，注意查看包内使用教程！！！）
 
-* 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
+百度： https://pan.baidu.com/s/1pKUQ3sJ 密码: 5r8k
+360：https://yunpan.cn/Ock8Wqn8jIgrw2 （提取码：2182）
+使用教程
 
-* 开发工具 v0.9
-  * 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-  * 360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
+已测试可用，大家一定要按照顺序，有不懂的群里问
 
-* Demo源代码
-  * 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
-  * 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
+1、安装0.7 — 扫码登陆 — 关闭0.7
 
-##破解步骤
+2、安装0.9 ——不要启动程序——替换3个文件
 
-***Mac测试可用，Windows测试可用***
+文件在weapp-ide-crack-master文件夹中
+替换目录
+C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\weapp\appservice\asdebug.js C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\components\create\createstep.js C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\stroes\projectStores.js
 
-1. 下载开发工具，并安装（***注意：一定要安装0.9版本***）
-2. 打开『微信Web开发者工具』的程序目录
-  * Windows：使用资源管理器查看
-  * Mac：右键点击图标，选择『显示包内容』
-3. 进入程序目录后，替换以下文件（只需要替换0.9版本里的，0.7版本用来登陆）：
-  * Windows：
-    * \package.nw\app\dist\components\create\createstep.js
-    * \package.nw\app\dist\stroes\projectStores.js
-  * Mac：
-    * /Resources/app.nw/app/dist/components/create/createstep.js
-    * /Resources/app.nw/app/dist/stroes/projectStores.js
-  
-  注意，这里微信工程师拼写错了，***是stroes没错***！！！
+3、打开0.9——新建项目：appid和名称随便填，路径选demo的路径
 
-  **[替换的文件点击这里下载](https://github.com/gavinkwoe/weapp-ide-crack/archive/master.zip)**
+4、good luck
 
-4. Good luck
+Demo运行，把文件路径指向Demo，就可以再IDE中运行。查看代码
+
+加群:320917137 共同探讨微信小程序开发
 
 ##扫码无法登录问题 please bind your wechat account to the appid first
 
