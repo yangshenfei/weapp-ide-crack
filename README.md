@@ -1,34 +1,33 @@
-相关资源
+##相关资源
 
-小程序开发交流QQ群： 320917137
-资源包（大家下载然后根据需要使用，注意查看包内使用教程！！！）
+* 小程序开发交流QQ群： 320917137
 
-百度： https://pan.baidu.com/s/1pKUQ3sJ 密码: 5r8k
-360：https://yunpan.cn/Ock8Wqn8jIgrw2 （提取码：2182）
-使用教程
+##资源包（大家下载然后根据需要使用，注意查看包内使用教程！！！）
+	百度： https://pan.baidu.com/s/1pKUQ3sJ 密码: 5r8k
+	360：https://yunpan.cn/Ock8Wqn8jIgrw2 （提取码：2182）
 
-已测试可用，大家一定要按照顺序，有不懂的群里问
+##使用教程
+###已测试可用，大家一定要按照顺序，有不懂的群里问
+#####1、安装0.7 — 扫码登陆 — 关闭0.7
+#####2、安装0.9 ——不要启动程序——替换3个文件
+	文件在weapp-ide-crack-master文件夹中
+	替换目录
+C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\weapp\appservice\asdebug.js
+C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\components\create\createstep.js
+C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\stroes\projectStores.js
+#####3、打开0.9——新建项目：appid和名称随便填，路径选demo的路径
+#####4、good luck
 
-1、安装0.7 — 扫码登陆 — 关闭0.7
+#####Demo运行，把文件路径指向Demo，就可以再IDE中运行。查看代码
 
-2、安装0.9 ——不要启动程序——替换3个文件
 
-文件在weapp-ide-crack-master文件夹中
-替换目录
-C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\weapp\appservice\asdebug.js C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\components\create\createstep.js C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\stroes\projectStores.js
-
-3、打开0.9——新建项目：appid和名称随便填，路径选demo的路径
-
-4、good luck
-
-Demo运行，把文件路径指向Demo，就可以再IDE中运行。查看代码
-
-加群:320917137 共同探讨微信小程序开发
+##加群:320917137 共同探讨微信小程序开发
 
 ##扫码无法登录问题 please bind your wechat account to the appid first
 
 * 先使用0.7版本[[Windows](http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0_x64.exe)|[Mac] (http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0.dmg)]的进行扫码登陆
 * 登陆成功后，再用[0.9版本](https://pan.baidu.com/s/1pLTKIqJ)打开就直接进入了
+
 
 ##使用教程
 
